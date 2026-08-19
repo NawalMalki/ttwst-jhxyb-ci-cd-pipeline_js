@@ -1,1 +1,1 @@
-# coding-project-template
+# CI/CD coding-project
